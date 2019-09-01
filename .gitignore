@@ -1,3 +1,6 @@
+.eslintrc.json
+.vscode
+
 # Logs
 logs
 *.log
